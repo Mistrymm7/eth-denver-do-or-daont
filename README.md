@@ -75,7 +75,7 @@ Create different calculations depending on the size of the DAO (DAO with 1000 me
 
 ## Treasury - 20 points
 
-**Question to answer: **
+**Question to answer:**
 - Does the DAO have a legit treasury?
 - Is the treasury growing and moving?
 
@@ -100,7 +100,7 @@ Different calculations depending on the size of the DAO
 
 ## Social Media - 10 points
 
-**Question to answer: **
+**Question to answer:**
 - Is the community active?
 - Is the growth natural?
 

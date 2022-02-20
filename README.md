@@ -1,6 +1,7 @@
 # eth-denver-do-or-daont
 Eth Denver Hackathon Project
-<br/>
+<br/><br/>
+
 
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.
@@ -12,7 +13,7 @@ There are many questions to consider before joining a DAO:
 - Are they transparent?
 - Is the treassury growing?
 - Is it fun to work in this DAO?
-<br/>
+<br/><br/>
 
 # Market Analysis
 Currently, there are already tools like DeepDao out there that give insights into various DAOs. But especially for newbies, it is hard to understand what all those metrics really mean.

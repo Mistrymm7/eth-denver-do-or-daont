@@ -1,6 +1,7 @@
 # eth-denver-do-or-daont
 Eth Denver Hackathon Project
 <code>&nbsp;</code>
+<code>&nbsp;</code>
 
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.

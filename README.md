@@ -83,7 +83,7 @@ Create different calculations depending on the size of the DAO (DAO with 1000 me
 - Is the treasury growing and moving?
 
 ### Calculation:
-- >10k = 2
+- less than 10k = 2
 - 10-20k= 4
 - 20-50k= 6
 - 50-100k= 8
@@ -91,7 +91,7 @@ Create different calculations depending on the size of the DAO (DAO with 1000 me
 - 200-300K= 12
 - 300-500k= 14
 - 500k-1M= 16
-- >1M=18
+- more than 1M=18
 - 2 extra points for diversification
 
 ### Next phase:

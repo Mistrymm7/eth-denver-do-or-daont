@@ -52,9 +52,9 @@ But since we still know that our defined trust score is quite subjective, we als
 
 ## Token Distribution - 30 points
 
-**Question to answer: **Is the token equally / properly distributed?
+**Question to answer:** Is the token equally / properly distributed?
 
-**Parameter: **All tokens / all token holder = equal amount of tokens for each member
+**Parameter:** All tokens / all token holder = equal amount of tokens for each member
 
 ### Calculation:
 30 points = equal distribution (+-3% more)

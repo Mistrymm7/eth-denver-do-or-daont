@@ -2,6 +2,9 @@
 Eth Denver Hackathon Project
 <br/><br/>
 
+### Link to pitch and prototype: 
+https://www.figma.com/proto/0mehVw7XtYBGFH6l0xe1jt/DAOCheck?page-id=0%3A1&node-id=60%3A405&viewport=306%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=60%3A405
+<br/><br/>
 
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.

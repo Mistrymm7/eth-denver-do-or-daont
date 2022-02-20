@@ -17,7 +17,7 @@ There are many questions to consider before joining a DAO:
 
 # Market Analysis
 Currently, there are already tools like DeepDao out there that give insights into various DAOs. But especially for newbies, it is hard to understand what all those metrics really mean.
-<br/>
+<br/><br/>
 
 # Introduction to DoOrDAOn't
 Therefore, to support new DAO joiners, we developed Do or DAON’t. DoOrDon't supports new DAO joiners to evaluate the transparency and decentralization of a DAO. With the help of our trust scores, they will only join DAOs that align with their values!

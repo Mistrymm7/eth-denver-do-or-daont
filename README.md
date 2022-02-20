@@ -148,13 +148,13 @@ For us, DAOs are all about transparency and due to that it is only a matter of t
 <br/><br/>
 
 # Revenue Streams
-## Enhanced Credibility
+### Enhanced Credibility
 DAOs can contact us to conduct a in-depth check to receive a verification checkmark. This checkmark add extra points to the trust score.
 
-## In-depth analytics
+### In-depth analytics
 We provide in-depth analytics and reviews to support DAOs to further increase their credibility.
 
-## Preference Data
+### Preference Data
 We provide insights into anonymized user searches and preferences to help DAOs understand the members needs.
 <br/><br/>
 

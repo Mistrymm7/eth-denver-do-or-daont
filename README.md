@@ -2,6 +2,7 @@
 ![19](https://user-images.githubusercontent.com/37834853/154842198-30a3e7b7-efe3-4335-96e0-5f000546fc3f.png)
 <br/><br/>
 
+# ![Bounties Specific Work:](https://github.com/Mistrymm7/eth-denver-do-or-daont/tree/main/bounties_integration)
 
 ### Architecture (Workflow)
 ![14](https://user-images.githubusercontent.com/7644450/154849599-701d69b4-4995-4196-ad41-5047a9dfc04f.png)

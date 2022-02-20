@@ -150,6 +150,10 @@ But they are way more metrics and information we plan to include to improve our 
 For us, DAOs are all about transparency and due to that it is only a matter of time until even more APIs open up and let us get their data to get even better insights. This means, the more DAO tools and DAO in general develop, the more insights people will gain through our tool. 
 <br/><br/>
 
+# APIS
+Off-chain DAO governance data is queried using BoardRoom API and contains data using Subgraph API. Covalent API provides on-chain real-time data and historic data about DAO treasury and token Distribution. This data is stored in a decentralized manner using IPFS. A hybrid governance solution for DAO proposals is developed by integrating benefits of off-chain and on-chain voting by using Chainlink keepers which stores IPFS proposal data daily on-chain using ERC721 metadata on Skale Network. Our front end provides data visualization and trust score metrics which enables well-informed decision to join a DAO to visitors.
+<br/><br/>
+
 # Revenue Streams
 ### Enhanced credibility
 DAOs can contact us to conduct a in-depth check to receive a verification checkmark. This checkmark add extra points to the trust score.

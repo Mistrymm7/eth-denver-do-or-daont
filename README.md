@@ -24,7 +24,7 @@ Therefore, to support new DAO joiners, we developed Do or DAON’t. DoOrDon't su
 
 New joiners go to our website and look for the DAO they are interested in. The first thing they notice is our trust score:
 Our trust score is built up of different metrics. The highest trust score is 100 points and the higher the score is, the more decentralized, transparent, and active is the DAO. In general, the score is calculated based on various metrics. For this MVP, we have the following categories:
-<br/>
+<br/><br/>
 
 # Trust Score Calculations
 ## Governance - 30 points
@@ -43,7 +43,7 @@ Question to answer: Are there regular proposals and do members actively vote on 
 5 points = 10-25%
 2.5 points = 5-10%
 0 points = 0-5%
-
+<br/><br/>
 
 ## Token Distribution - 30 points
 
@@ -66,7 +66,7 @@ Proof of humanity: But what stops people to verify their main wallet with poh an
 
 ### Next phase:
 Create different calculations depending on the size of the DAO (DAO with 1000 members has different distribution than DAO with 10k)
-
+<br/><br/>
 
 ## Treasury - 20 points
 
@@ -91,7 +91,7 @@ Where does the treasury come from? Like Crunchbase for DAOs
 Where does the treasury go? Are there recurring expenses?
 Does the treasury have a multi-sync wallet?
 Different calculations depending on the size of the DAO
-
+<br/><br/>
 
 ## Social Media - 10 points
 
@@ -109,7 +109,7 @@ over 5k followers: 5 points
 
 ### Next phase: 
 including followers, engagement, tweet frequency
-
+<br/><br/>
 
 ## Ratings/Reviews - 10 points
 
@@ -127,3 +127,4 @@ Holders need to be holding the tokens for at least two weeks to create a comment
 
 ### Next phase:
 Token rewards for posting rating → Incentive
+<br/><br/>

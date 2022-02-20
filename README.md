@@ -2,9 +2,21 @@
 ![19](https://user-images.githubusercontent.com/37834853/154842198-30a3e7b7-efe3-4335-96e0-5f000546fc3f.png)
 <br/><br/>
 
-### Link to pitch and prototype: 
+
+### Architecture (Workflow)
+![14](https://user-images.githubusercontent.com/7644450/154849599-701d69b4-4995-4196-ad41-5047a9dfc04f.png)
+<br/><br/>
+
+Off-chain DAO governance data is queried using BoardRoom API and contains data using Subgraph API. Covalent API provides on-chain real-time data and historic data about DAO treasury and token Distribution. This data is stored in a decentralized manner using IPFS. A hybrid governance solution for DAO proposals is developed by integrating benefits of off-chain and on-chain voting by using Chainlink keepers which stores IPFS proposal data daily on-chain using ERC721 metadata on Skale Network. Our front end provides data visualization and trust score metrics which enables well-informed decision to join a DAO to visitors.
+<br/><br/>
+
+### Link to prototype: 
 https://www.figma.com/proto/0mehVw7XtYBGFH6l0xe1jt/DAOCheck?page-id=0%3A1&node-id=60%3A405&viewport=306%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=60%3A405
 <br/><br/>
+
+### Demo Video
+https://vimeo.com/679698184
+
 
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.
@@ -150,9 +162,7 @@ But they are way more metrics and information we plan to include to improve our 
 For us, DAOs are all about transparency and due to that it is only a matter of time until even more APIs open up and let us get their data to get even better insights. This means, the more DAO tools and DAO in general develop, the more insights people will gain through our tool. 
 <br/><br/>
 
-# APIs
-Off-chain DAO governance data is queried using BoardRoom API and contains data using Subgraph API. Covalent API provides on-chain real-time data and historic data about DAO treasury and token Distribution. This data is stored in a decentralized manner using IPFS. A hybrid governance solution for DAO proposals is developed by integrating benefits of off-chain and on-chain voting by using Chainlink keepers which stores IPFS proposal data daily on-chain using ERC721 metadata on Skale Network. Our front end provides data visualization and trust score metrics which enables well-informed decision to join a DAO to visitors.
-<br/><br/>
+
 
 # Revenue Streams
 ### Enhanced credibility

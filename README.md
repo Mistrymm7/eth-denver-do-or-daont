@@ -1,7 +1,6 @@
 # eth-denver-do-or-daont
 Eth Denver Hackathon Project
 <br/>
-<br/>
 
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.
@@ -13,16 +12,18 @@ There are many questions to consider before joining a DAO:
 - Are they transparent?
 - Is the treassury growing?
 - Is it fun to work in this DAO?
+<br/>
 
 # Market Analysis
 Currently, there are already tools like DeepDao out there that give insights into various DAOs. But especially for newbies, it is hard to understand what all those metrics really mean.
+<br/>
 
 # Introduction to DoOrDAOn't
 Therefore, to support new DAO joiners, we developed Do or DAON’t. DoOrDon't supports new DAO joiners to evaluate the transparency and decentralization of a DAO. With the help of our trust scores, they will only join DAOs that align with their values!
 
 New joiners go to our website and look for the DAO they are interested in. The first thing they notice is our trust score:
 Our trust score is built up of different metrics. The highest trust score is 100 points and the higher the score is, the more decentralized, transparent, and active is the DAO. In general, the score is calculated based on various metrics. For this MVP, we have the following categories:
-
+<br/>
 
 
 # Trust Score Calculations

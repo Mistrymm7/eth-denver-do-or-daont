@@ -1,5 +1,4 @@
 # eth-denver-do-or-daont
-Eth Denver Hackathon Project
 ![19](https://user-images.githubusercontent.com/37834853/154842198-30a3e7b7-efe3-4335-96e0-5f000546fc3f.png)
 <br/><br/>
 

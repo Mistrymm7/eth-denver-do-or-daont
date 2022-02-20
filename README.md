@@ -21,6 +21,8 @@ Therefore, to support new DAO joiners, we developed Do or DAON’t. DoOrDon't su
 New joiners go to our website and look for the DAO they are interested in. The first thing they notice is our trust score:
 Our trust score is built up of different metrics. The highest trust score is 100 points and the higher the score is, the more decentralized, transparent, and active is the DAO. In general, the score is calculated based on various metrics. For this MVP, we have the following categories:
 
+
+
 # Trust Score Calculations
 ## Governance - 30 points
 

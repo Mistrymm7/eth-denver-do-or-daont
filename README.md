@@ -2,14 +2,16 @@
 ![19](https://user-images.githubusercontent.com/37834853/154842198-30a3e7b7-efe3-4335-96e0-5f000546fc3f.png)
 <br/><br/>
 
-# ![Bounties Specific Work:](https://github.com/Mistrymm7/eth-denver-do-or-daont/tree/main/bounties_integration)
-
 ### Architecture (Workflow)
 ![14](https://user-images.githubusercontent.com/7644450/154849599-701d69b4-4995-4196-ad41-5047a9dfc04f.png)
 <br/><br/>
 
 Off-chain DAO governance data is queried using BoardRoom API and contains data using Subgraph API. Covalent API provides on-chain real-time data and historic data about DAO treasury and token Distribution. This data is stored in a decentralized manner using IPFS. A hybrid governance solution for DAO proposals is developed by integrating benefits of off-chain and on-chain voting by using Chainlink keepers which stores IPFS proposal data daily on-chain using ERC721 metadata on Skale Network. Our front end provides data visualization and trust score metrics which enables well-informed decision to join a DAO to visitors.
 <br/><br/>
+
+### Code Snippets
+![codesnips](https://user-images.githubusercontent.com/7644450/155121852-8ffb9afa-ec9d-4357-8e30-0c534f92f736.png)
+
 
 ### Link to prototype: 
 https://www.figma.com/proto/0mehVw7XtYBGFH6l0xe1jt/DAOCheck?page-id=0%3A1&node-id=60%3A405&viewport=306%2C48%2C0.17&scaling=scale-down-width&starting-point-node-id=60%3A405

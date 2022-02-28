@@ -21,6 +21,9 @@ https://www.figma.com/proto/0mehVw7XtYBGFH6l0xe1jt/DAOCheck?page-id=0%3A1&node-i
 https://vimeo.com/679698184
 
 
+### Roadmap
+![Roadmap](https://user-images.githubusercontent.com/7644450/155906587-27a30814-2bf6-488f-ab71-1b937af6c84c.jpg)
+
 # Background
 More and more people are currently getting interested in joining a DAO and also see them as a real alternative to a traditional company job.
 But after various scams that already happened in the DAO world, how do people know that they can trust a DAO and if it’s even a good fit for them?
